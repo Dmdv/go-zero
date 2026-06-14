@@ -1,6 +1,6 @@
 module github.com/zeromicro/go-zero
 
-go 1.20
+go 1.21
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
@@ -8,7 +8,7 @@ require (
 	github.com/fatih/color v1.17.0
 	github.com/fullstorydev/grpcurl v1.9.1
 	github.com/go-sql-driver/mysql v1.8.1
-	github.com/golang-jwt/jwt/v4 v4.5.0
+	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.4
 	github.com/google/uuid v1.6.0
